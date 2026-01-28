@@ -3,7 +3,7 @@ A collection of Jupyter Notebooks covering fundamental and advanced digital imag
 
 | Lab No. | Date       | Topic                         | Key Techniques / Algorithms                                  | Notebook |
 |--------|------------|-------------------------------|----------------------------------------------------------------|----------|
-| 01     | 2026-01-08 | Introduction to OpenCV        | Image loading, resizing, Gaussian noise, box blur, Gaussian blur                  | IVP_Experiment_0.ipynb; IVP_Experiment_1.ipynb |
+| 01     | 2026-01-08 | Introduction to OpenCV        | Image loading, resizing, Gaussian noise, box blur, Gaussian blur                  | IVP_Experiment_0.ipynb IVP_Experiment_1.ipynb |
 | 02     | 2026-01-22 |  |       |  |
 
 
