@@ -12,7 +12,7 @@ A collection of Jupyter Notebooks covering fundamental and advanced digital imag
 ## Setup & Requirements
 ```python
 # Clone the repo
-git clone https://github.com/yourusername/IVP-Lab.git
+git clone [https://github.com/BharatK0049/image-video-processing-lab-experiments](https://github.com/BharatK0049/image-video-processing-lab-experiments).git
 
 # Install dependencies
 pip install opencv-python matplotlib numpy notebook
