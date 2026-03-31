@@ -8,6 +8,7 @@ A collection of Jupyter Notebooks covering fundamental and advanced digital imag
 | 03     | 2026-01-29 | Histogram-Based Enhancement and Quality Metric Analysis | Histogram analysis, Contrast Enhancement, Image Quality Assessment      | IVP_Experiment_3.ipynb  |
 | 04 | 2026-02-05 | Spatial Filtering Operations and Central Limit Theorem | Convolution, Correlation, Histogram | IVP_Experiment_4.ipynb |
 | 05 | 2026-02-12 | Filtering and DFT reconstruction | Gaussian and Median Filtering, Forward and Inverse DFT | IVP_Experiment_5.ipynb |
+| 06 | 2026-02-26 | DCT, DFT and Energy Compaction | Discrete Cosine Transform, Discrete Fourier Transform, Peak Signal-to-Noise Ratio | IVP_Experiment_6.ipynb |
 
 
 
@@ -19,4 +20,6 @@ git clone https://github.com/BharatK0049/image-video-processing-lab-experiments.
 # Install dependencies
 pip install opencv-python matplotlib numpy notebook
 ```
+
+
 
