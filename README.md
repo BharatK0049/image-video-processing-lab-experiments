@@ -6,7 +6,7 @@ A collection of Jupyter Notebooks covering fundamental and advanced digital imag
 | 01     | 2026-01-08 | Introduction to OpenCV        | Image loading, resizing, Gaussian noise, box blur, Gaussian blur                  | IVP_Experiment_0.ipynb IVP_Experiment_1.ipynb |
 | 02     | 2026-01-22 | Spatial and Intensity Transformations in Digital Images | point operations, spatial and intensity resolution, color space representations, binary image formation.      | IVP_Experiment_2.ipynb  |
 | 03     | 2026-01-29 | Histogram-Based Enhancement and Quality Metric Analysis | Histogram analysis, Contrast Enhancement, Image Quality Assessment      | IVP_Experiment_3.ipynb  |
-| 04 | 2026-02-05 | Spatial Filtering Operations and Central Limit Theorem | IVP_Experiment_4.ipynb | Convolution, Correlation, Histogram |
+| 04 | 2026-02-05 | Spatial Filtering Operations and Central Limit Theorem | Convolution, Correlation, Histogram | IVP_Experiment_4.ipynb |
 
 
 
