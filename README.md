@@ -10,6 +10,7 @@ A collection of Jupyter Notebooks covering fundamental and advanced digital imag
 | 05 | 2026-02-12 | Filtering and DFT reconstruction | Gaussian and Median Filtering, Forward and Inverse DFT | IVP_Experiment_5.ipynb |
 | 06 | 2026-02-26 | DCT, DFT and Energy Compaction | Discrete Cosine Transform, Discrete Fourier Transform, Peak Signal-to-Noise Ratio | IVP_Experiment_6.ipynb |
 | 07 | 2026-03-05 | Wavelet Transform and Image Restoration | Wavelet Transform, Wiener Filter, Inverse Filtering | IVP_Experiment_7.ipynb |
+| 08 | 2026-03-19 | Edge Detection and Feature Extraction | Canny Edge Detection, Sobel Operator, Histogram of Oriented Gradients |
 
 
 
